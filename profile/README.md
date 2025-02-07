@@ -6,5 +6,5 @@ Contact: tba
 
 **For members:**
 
-- Github repo for docs and meeting notes here: iCAN-Share (private)
-- Github project including Kanban board here: iCAN-Share (private)
+- Github repo for docs and meeting notes here: [iCAN-Share](https://github.com/HUS-OMOP/iCAN-Share) (private)
+- Github project including Kanban board here: [iCAN-Share](https://github.com/orgs/HUS-OMOP/projects/4) (private)
